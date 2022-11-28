@@ -1,0 +1,19 @@
+{
+  "name": "disgraphia",
+  "version": "1.0.0",
+  "description": "TCC engenharia biomédica 2022",
+  "main": "src/server.js",
+  "scripts": {
+    "dev": "nodemon ."
+  },
+  "keywords": [],
+  "author": "Eduardo Menegatti Marques",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
